@@ -1,2 +1,9 @@
 [1126/182445.852:ERROR:crash_report_database_win.cc(428)] unexpected header
 [1126/192810.807:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/163915.587:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/173348.226:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/180309.101:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/180351.232:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/180543.147:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/180543.722:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1203/180546.239:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
